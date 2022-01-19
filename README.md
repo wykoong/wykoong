@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wykoong
 - 👀 I’m a passionate coder.  
-- 🌱 I am specialised in MySQL, PL/SQL, Oracle, Python, R, TCL/TK, Smalltalk, etc..
+- 🌱 I am specialised in MySQL, PL/SQL, Oracle, MS SQL, Big Data, Python, R, dotNet, TCL/TK, Smalltalk, etc..
 - 💞️ I’m looking to collaborate on any MySQL or PL/SQL project
 - 📫 reach me at wykoong@gmail.com
